@@ -1,0 +1,2 @@
+d.getElementsById = 'fav';
+fav
